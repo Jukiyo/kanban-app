@@ -7,13 +7,12 @@ import { getFirestore } from "firebase/firestore";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCPPwaDau7U3byGhfphk4_bn8IuFllYtBc",
-  authDomain: "kanban-app-tutorial.firebaseapp.com",
-  projectId: "kanban-app-tutorial",
-  storageBucket: "kanban-app-tutorial.appspot.com",
-  messagingSenderId: "254663431307",
-  appId: "1:254663431307:web:c434c88cc09d0012d2b08e",
-  measurementId: "G-MQCQDHKKM2",
+  apiKey: "AIzaSyCAsr4xx4lABmFs4S91V2rPFTYWz06WFzM",
+  authDomain: "kanban-app-5fbb0.firebaseapp.com",
+  projectId: "kanban-app-5fbb0",
+  storageBucket: "kanban-app-5fbb0.appspot.com",
+  messagingSenderId: "519201238272",
+  appId: "1:519201238272:web:741e9092713b77d93d17e5"
 };
 
 // Initialize Firebase
